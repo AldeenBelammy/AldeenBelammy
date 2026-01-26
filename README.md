@@ -8,99 +8,153 @@ Muhammad Diya Aldin Belammy Wicaksongko | Web Developer
 
 </div>
 
- Introduction
+<br><br><br>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFsMGZtZ2NwdmdmYWR6a2h4bHJkNGN5ZzJ0a3R5d3l4Z3ZyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3l4YjRzZ2F1eXFkMTR4OW5xOWF1N2JpZWt1Y2FjZ3Z0bGJqYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYC0LajbaPoEADu/giphy.gif" width="720"/>
 </p>
 
-I specialize in **visual-first web experiences** — where **aesthetics, interaction, and performance** work as one system.  
-Every pixel has intention. Every line of code has purpose.
+<h1 align="center">Aldin Belammy</h1>
+
+<p align="center">
+  UI/UX Designer & Web Developer
+</p>
+
+<p align="center">
+  <sub>Minimal interfaces. Intentional motion. Luxury restraint.</sub>
+</p>
+
+<br><br><br>
 
 ---
 
-## Core Focus
-- Visual storytelling & brand identity  
-- UI/UX systems for modern web applications  
-- Front-end architecture with design consistency  
-- Motion-aware layouts & micro-interactions  
+<br><br>
+
+## Profile
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR6Y3J1Z2Y0NHN4bWZ5aHJrZ3RzZXRnYXRnNGRvZzFhbWx3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKtnuHOHHUjR38Y/giphy.gif" width="420"/>
+</p>
+
+I design and build digital products with a **minimalist, Apple-inspired philosophy** —  
+where **spacing speaks**, **motion feels natural**, and **visuals never shout**.
+
+Every interface is shaped by intention.  
+Every interaction is designed to feel inevitable.
+
+<br><br><br>
 
 ---
 
-## Design Arsenal
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="45"/>
-</p>
+<br><br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-000000?style=flat&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-000000?style=flat&logo=adobeillustrator&logoColor=white"/>
-</p>
+## Core Principles
 
----
+- Clarity over decoration  
+- Space as a design element  
+- Motion as guidance, not entertainment  
+- Systems over single screens  
+- Quality over quantity  
 
-## Web Development Stack
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="45"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-000000?style=flat&logo=tailwindcss&logoColor=white"/>
-</p>
+<br><br><br>
 
 ---
 
-## Live Motion Section
+<br><br>
+
+## Black–Gold Design Stack
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3FmdGJ5cTZ0emh1aXRtZ3Z5dzZlOXhxM3lta2c4a3J3a3o5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kH1DBkPNyZPOk0BxrM/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWF4OHV1N3N5aGZrN3ZkNmVnZm1uZ3l4eW9wM2ZxYW1jbjN4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kH1DBkPNyZPOk0BxrM/giphy.gif" width="360"/>
 </p>
 
-This profile is designed to feel like a **scrolling landing page** —  
-each section introduces motion, then resolves into clarity.
+**Design**
+- Figma  
+- Adobe Photoshop  
+- Adobe Illustrator  
+- Framer  
+
+**Development**
+- HTML, CSS, JavaScript  
+- React  
+- Tailwind CSS  
+- GSAP  
+
+<br><br><br>
 
 ---
 
-## GitHub Performance
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=github_dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=github_dark" height="165"/>
-</p>
+<br><br>
+
+## 8-Week Professional Timeline
+
+| Week | Focus Area | Description |
+|------|-----------|-------------|
+| 1 | Research & Vision | Define goals, visual direction, UX principles |
+| 2 | UX Structure | Information architecture & user flow |
+| 3 | Visual System | Typography, spacing, color, grid |
+| 4 | High-Fidelity UI | Minimal, Apple-style screen design |
+| 5 | Front-End Build | Clean, semantic, scalable code |
+| 6 | Motion Design | Subtle easing & interaction feedback |
+| 7 | Optimization | Performance & responsiveness |
+| 8 | Review & Polish | Refinement & consistency |
+
+<br><br><br>
 
 ---
+
+<br><br>
 
 ## Selected Work
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXl1ZmU2eHF4NXM3b3p4MGs5NnVhNWRvYzNnYjZ6eTJtNHc5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="450"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjR4c2s2Z3Z5b2Z6eHN5cHBxYXBkN25vY2Q3aXprcDNrY3F2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="460"/>
 </p>
 
-- **Cinematic Portfolio Website**  
-  Dark UI, motion-driven sections, strong typographic contrast.
+**Minimal Portfolio Website**  
+Dark interface with brutal spacing and restrained motion.
 
-- **Brand Landing Page**  
-  High-impact hero section with scroll-based storytelling.
+**Luxury Landing Page**  
+Black–gold visual language with scroll-based storytelling.
 
-- **Web App Interface**  
-  Modular UI system with consistent spacing & motion rhythm.
+**UI System Design**  
+Reusable components governed by strict spacing and motion rules.
+
+<br><br><br>
 
 ---
+
+<br><br>
+
+## Awards & Recognition
+
+- UI/UX Design Excellence — Internal Project Award  
+- Best Visual Consistency — Web Design Showcase  
+- Featured Portfolio — Community Design Review  
+
+<br><br><br>
+
+---
+
+<br><br>
 
 ## Contact
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300"/>
-</p>
 
-<p align="center">
-  GitHub • https://github.com/USERNAME_KAMU  
-  LinkedIn • https://linkedin.com/in/USERNAME_KAMU  
-  Email • your.email@example.com
-</p>
+GitHub  
+https://github.com/USERNAME_KAMU  
+
+LinkedIn  
+https://linkedin.com/in/USERNAME_KAMU  
+
+Email  
+your.email@example.com  
+
+<br><br><br>
 
 ---
 
 <p align="center">
-  <i>Dark visuals. Precise code. Intentional motion.</i>
+  <sub>Less, but better.</sub>
 </p>
+
+<br><br><br>
