@@ -1,158 +1,189 @@
 <div align="center">
-
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/1b8ff06c-e529-4317-b03b-e31c7272fd15" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=303030&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;AldinBelammy;Open+Source+Enthusiast;Problem+Solver;DesignerGraphic)](https://git.io/typing-svg)
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&text=MUHAMMED%20DIYA%20ALDIN&fontSize=46&fontColor=F2F2F2&desc=Junior%20Data%20Analyst%20%7C%20Graphic%20Designer&descSize=18&descAlignY=70&color=2B2B2B" />
 </div>
 
-<br><br><br>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3l4YjRzZ2F1eXFkMTR4OW5xOWF1N2JpZWt1Y2FjZ3Z0bGJqYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYC0LajbaPoEADu/giphy.gif" width="720"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=600&lines=I'm+Muhammad+Diya+Aldin+Belammy;Web+%26+Mobile+Developer;Tech+Enthusiast+%7C+Lifelong+Learner" />
 </p>
 
-<h1 align="center">Aldin Belammy</h1>
+---
 
+## 👤 About Me
+
+Hello! I'm **Muhammad Diya Aldin Belammy**, a passionate **Web & Mobile Developer** who loves building clean, modern, and functional applications.  
+I enjoy learning new technologies, solving problems, and turning ideas into real projects.
+
+- 🌍 Based in **Indonesia**
+- 💻 Focused on **Web Development & Android Apps**
+- 📚 Always learning **new frameworks & tools**
+- 🚀 Interested in **UI/UX, Backend, and System Design**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-eeeeee?style=for-the-badge&logo=java&logoColor=333333"/>
+  <img src="https://img.shields.io/badge/PHP-f5f5f5?style=for-the-badge&logo=php&logoColor=333333"/>
+  <img src="https://img.shields.io/badge/Python-eeeeee?style=for-the-badge&logo=python&logoColor=333333"/>
+  <img src="https://img.shields.io/badge/JavaScript-f5f5f5?style=for-the-badge&logo=javascript&logoColor=333333"/>
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-eeeeee?style=for-the-badge&logo=html5&logoColor=333333"/>
+  <img src="https://img.shields.io/badge/CSS3-f5f5f5?style=for-the-badge&logo=css3&logoColor=333333"/>
+  <img src="https://img.shields.io/badge/Laravel-eeeeee?style=for-the-badge&logo=laravel&logoColor=333333"/>
+  <img src="https://img.shields.io/badge/MySQL-f5f5f5?style=for-the-badge&logo=mysql&logoColor=333333"/>
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Android_Studio-eeeeee?style=for-the-badge&logo=android&logoColor=333333"/>
+  <img src="https://img.shields.io/badge/Java_Android-f5f5f5?style=for-the-badge&logo=android&logoColor=333333"/>
+</p>
+
+
+## <p align="center">Data-driven thinking with visual clarity and contextual awareness</p>
+
+<br>
+
+<!-- ================================================= -->
+<!-- ROLE BADGES -->
+<!-- ================================================= -->
 <p align="center">
-  UI/UX Designer & Web Developer
+<img src="https://img.shields.io/badge/Junior%20Data%20Analyst-2E2E2E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Graphic%20Designer-6B6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-9E9E9E?style=for-the-badge"/>
+</p>
+
+
+
+## 📚 Personal Digital Library
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Evolving-lightgrey?style=flat-square" />
+</p>
+
+- 📘 **Digital Portfolio**  
+  *Currently in progress — crafted with the same care as forging a traditional blade:*  
+  transforming raw data into refined visual insights.
+
+- 📝 **Analysis Blog**  
+  **Medium — Data with Indonesian Sensibility**  
+  A space for analytical writing that blends data reasoning with cultural context.
+
+- 🗄 **Learning Archive**  
+  GitHub repositories as a structured record of my analytical journey.
+
+- 💡 **Useful Snippets**  
+  **GitHub Gist Collection** — reusable code, patterns, and small experiments.
+
+---
+
+<br>
+
+## 🗓 8-Week Learning Journey: From Novice to Proficient
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Learning%20Mode-Progressive-lightgrey?style=flat-square" />
+</p>
+
+> *“Like an apprentice craftsman progressing step by step, from observation to mastery.”*
+
+<table align="center">
+<thead>
+<tr>
+<th align="center">Week</th>
+<th align="center">Learning Focus</th>
+<th align="center">Status</th>
+<th align="center">Repository</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td align="center"><b>Week 1</b></td>
+<td align="center">Orientation & Tool Preparation</td>
+<td align="center">✅ Completed</td>
+<td align="center"><a href="#">View Repo</a></td>
+</tr>
+
+<tr>
+<td align="center"><b>Week 2</b></td>
+<td align="center">Data Collection</td>
+<td align="center">🟡 In Progress</td>
+<td align="center"><a href="#">View Repo</a></td>
+</tr>
+
+<tr>
+<td align="center"><b>Week 3</b></td>
+<td align="center">Data Cleaning & Validation</td>
+<td align="center">⏳ Planned</td>
+<td align="center">Coming Soon</td>
+</tr>
+
+<tr>
+<td align="center"><b>Week 4</b></td>
+<td align="center">Exploratory Analysis & Pattern Discovery</td>
+<td align="center">⏳ Planned</td>
+<td align="center">Coming Soon</td>
+</tr>
+
+<tr>
+<td align="center"><b>Week 5</b></td>
+<td align="center">Deep Analysis with SQL</td>
+<td align="center">⏳ Planned</td>
+<td align="center">Coming Soon</td>
+</tr>
+
+<tr>
+<td align="center"><b>Week 6</b></td>
+<td align="center">Visualization & Data Storytelling</td>
+<td align="center">⏳ Planned</td>
+<td align="center">Coming Soon</td>
+</tr>
+
+<tr>
+<td align="center"><b>Week 7</b></td>
+<td align="center">Integrated Project Development</td>
+<td align="center">⏳ Planned</td>
+<td align="center">Coming Soon</td>
+</tr>
+
+<tr>
+<td align="center"><b>Week 8</b></td>
+<td align="center">Presentation & Portfolio Publishing</td>
+<td align="center">⏳ Planned</td>
+<td align="center">Coming Soon</td>
+</tr>
+
+</tbody>
+</table>
+
+<!-- ================================================= -->
+<!-- ANIMATED DIVIDER -->
+<!-- ================================================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=E5E5E5" />
+</div>
+
+## 📫 Contact Me
+
+<p>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-eeeeee?style=for-the-badge&logo=gmail&logoColor=333333"/>
+  </a>
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-f5f5f5?style=for-the-badge&logo=instagram&logoColor=333333"/>
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-eeeeee?style=for-the-badge&logo=linkedin&logoColor=333333"/>
+  </a>
 </p>
 
 <p align="center">
-  <sub>Minimal interfaces. Intentional motion. Luxury restraint.</sub>
+  ✨ Thank you for visiting my GitHub profile ✨
 </p>
-
-<br><br><br>
-
----
-
-<br><br>
-
-## Profile
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR6Y3J1Z2Y0NHN4bWZ5aHJrZ3RzZXRnYXRnNGRvZzFhbWx3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKtnuHOHHUjR38Y/giphy.gif" width="420"/>
-</p>
-
-I design and build digital products with a **minimalist, Apple-inspired philosophy** —  
-where **spacing speaks**, **motion feels natural**, and **visuals never shout**.
-
-Every interface is shaped by intention.  
-Every interaction is designed to feel inevitable.
-
-<br><br><br>
-
----
-
-<br><br>
-
-## Core Principles
-
-- Clarity over decoration  
-- Space as a design element  
-- Motion as guidance, not entertainment  
-- Systems over single screens  
-- Quality over quantity  
-
-<br><br><br>
-
----
-
-<br><br>
-
-## Black–Gold Design Stack
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWF4OHV1N3N5aGZrN3ZkNmVnZm1uZ3l4eW9wM2ZxYW1jbjN4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kH1DBkPNyZPOk0BxrM/giphy.gif" width="360"/>
-</p>
-
-**Design**
-- Figma  
-- Adobe Photoshop  
-- Adobe Illustrator  
-- Framer  
-
-**Development**
-- HTML, CSS, JavaScript  
-- React  
-- Tailwind CSS  
-- GSAP  
-
-<br><br><br>
-
----
-
-<br><br>
-
-## 8-Week Professional Timeline
-
-| Week | Focus Area | Description |
-|------|-----------|-------------|
-| 1 | Research & Vision | Define goals, visual direction, UX principles |
-| 2 | UX Structure | Information architecture & user flow |
-| 3 | Visual System | Typography, spacing, color, grid |
-| 4 | High-Fidelity UI | Minimal, Apple-style screen design |
-| 5 | Front-End Build | Clean, semantic, scalable code |
-| 6 | Motion Design | Subtle easing & interaction feedback |
-| 7 | Optimization | Performance & responsiveness |
-| 8 | Review & Polish | Refinement & consistency |
-
-<br><br><br>
-
----
-
-<br><br>
-
-## Selected Work
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjR4c2s2Z3Z5b2Z6eHN5cHBxYXBkN25vY2Q3aXprcDNrY3F2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="460"/>
-</p>
-
-**Minimal Portfolio Website**  
-Dark interface with brutal spacing and restrained motion.
-
-**Luxury Landing Page**  
-Black–gold visual language with scroll-based storytelling.
-
-**UI System Design**  
-Reusable components governed by strict spacing and motion rules.
-
-<br><br><br>
-
----
-
-<br><br>
-
-## Awards & Recognition
-
-- UI/UX Design Excellence — Internal Project Award  
-- Best Visual Consistency — Web Design Showcase  
-- Featured Portfolio — Community Design Review  
-
-<br><br><br>
-
----
-
-<br><br>
-
-## Contact
-
-GitHub  
-https://github.com/USERNAME_KAMU  
-
-LinkedIn  
-https://linkedin.com/in/USERNAME_KAMU  
-
-Email  
-your.email@example.com  
-
-<br><br><br>
-
----
-
-<p align="center">
-  <sub>Less, but better.</sub>
-</p>
-
-<br><br><br>
