@@ -106,56 +106,56 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 
 <tr>
 <td align="center"><b>Week 1</b></td>
-<td align="center">Orientation & Tool Preparation</td>
+<td align="center">Orientasi Industri & Literasi Data</td>
 <td align="center">✅ Completed</td>
 <td align="center"><a href="#">View Repo</a></td>
 </tr>
 
 <tr>
 <td align="center"><b>Week 2</b></td>
-<td align="center">Data Collection</td>
+<td align="center">Data Collection & Understanding</td>
 <td align="center">🟡 In Progress</td>
 <td align="center"><a href="#">View Repo</a></td>
 </tr>
 
 <tr>
 <td align="center"><b>Week 3</b></td>
-<td align="center">Data Cleaning & Validation</td>
+<td align="center">Data Cleaning & Preparation</td>
 <td align="center">⏳ Planned</td>
 <td align="center">Coming Soon</td>
 </tr>
 
 <tr>
 <td align="center"><b>Week 4</b></td>
-<td align="center">Exploratory Analysis & Pattern Discovery</td>
+<td align="center">Exploratory Data Analysis</td>
 <td align="center">⏳ Planned</td>
 <td align="center">Coming Soon</td>
 </tr>
 
 <tr>
 <td align="center"><b>Week 5</b></td>
-<td align="center">Deep Analysis with SQL</td>
+<td align="center">Problem Solving & Business Question</td>
 <td align="center">⏳ Planned</td>
 <td align="center">Coming Soon</td>
 </tr>
 
 <tr>
 <td align="center"><b>Week 6</b></td>
-<td align="center">Visualization & Data Storytelling</td>
+<td align="center">Reporting & Storytelling Data</td>
 <td align="center">⏳ Planned</td>
 <td align="center">Coming Soon</td>
 </tr>
 
 <tr>
 <td align="center"><b>Week 7</b></td>
-<td align="center">Integrated Project Development</td>
+<td align="center">Final Project & Portofolio</td>
 <td align="center">⏳ Planned</td>
 <td align="center">Coming Soon</td>
 </tr>
 
 <tr>
 <td align="center"><b>Week 8</b></td>
-<td align="center">Presentation & Portfolio Publishing</td>
+<td align="center">Review Akhir & Evaluasi</td>
 <td align="center">⏳ Planned</td>
 <td align="center">Coming Soon</td>
 </tr>
