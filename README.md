@@ -173,13 +173,13 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 ## 📫 Contact Me
 
 <p>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:aldinbelammy3@gmail.com">
     <img src="https://img.shields.io/badge/Email-eeeeee?style=for-the-badge&logo=gmail&logoColor=333333"/>
   </a>
-  <a href="https://instagram.com/yourusername">
+  <a href="https://instagram.com/aldeen.bw">
     <img src="https://img.shields.io/badge/Instagram-f5f5f5?style=for-the-badge&logo=instagram&logoColor=333333"/>
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/usrname.al">
     <img src="https://img.shields.io/badge/LinkedIn-eeeeee?style=for-the-badge&logo=linkedin&logoColor=333333"/>
   </a>
 </p>
