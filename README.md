@@ -3,20 +3,20 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=600&lines=I'm+Muhammad+Diya+Aldin+Belammy;Web+%26+Mobile+Developer;Tech+Enthusiast+%7C+Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=600&lines=I'm+Muhammed+Diya+Aldin+Belammy;Junior+Data+Analyst;Graphic+Designer+%7C+Lifelong+Learner" />
 </p>
 
 ---
 
 ## 👤 About Me
 
-Hello! I'm **Muhammad Diya Aldin Belammy**, a passionate **Web & Mobile Developer** who loves building clean, modern, and functional applications.  
+Hello! I'm **Muhammad Diya Aldin Belammy**, a passionate **Junior Data Analyst & Graphic Designer** who loves clean, modern, and functional applications.  
 I enjoy learning new technologies, solving problems, and turning ideas into real projects.
 
 - 🌍 Based in **Indonesia**
-- 💻 Focused on **Web Development & Android Apps**
+- 💻 Focused on **Data Analyst & Designer**
 - 📚 Always learning **new frameworks & tools**
-- 🚀 Interested in **UI/UX, Backend, and System Design**
+- 🚀 Interested in **UI/UX and System Design**
 
 ---
 
@@ -45,7 +45,7 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 </p>
 
 
-## <p align="center">Data-driven thinking with visual clarity and contextual awareness</p>
+## <p align="center"></p>
 
 <br>
 
